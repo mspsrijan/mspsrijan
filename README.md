@@ -1,3 +1,9 @@
+<p align="center">
+<a href="#">
+<img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/Shah%20Paran%20Srijan%20(Github%20Banner).png"></img>
+</a>
+</p>
+
 ### 👋 Hello there!
 
 I'm Shah Paran Srijan, on a mission to become a proficient MERN stack developer.
