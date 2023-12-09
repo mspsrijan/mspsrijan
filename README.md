@@ -16,8 +16,6 @@ I'm Shah Paran Srijan, on a mission to become a proficient MERN stack developer.
 
 🚀 Let's connect, collaborate, and code! Feel free to explore my repositories and don't hesitate to reach out for discussions, contributions, or just a friendly chat. Let's build something awesome! Happy coding!
 
-<hr/>
-
 ### I am familiar with
 
 <p align="center">
@@ -25,8 +23,6 @@ I'm Shah Paran Srijan, on a mission to become a proficient MERN stack developer.
     <img src="https://skillicons.dev/icons?i=tailwind,react,firebase,express,mongodb,nodejs,figma,vercel,vite,vscode,github,wordpress,linux" />
   </a>
 </p>
-
-<hr/>
 
 ### Let's Connect
 
@@ -41,8 +37,6 @@ I'm Shah Paran Srijan, on a mission to become a proficient MERN stack developer.
     <img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/twitter.png" width="50" height="50"/>
   </a>
 </p>
-
-<hr/>
 
 ### My Stats
 
