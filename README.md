@@ -13,13 +13,19 @@ I'm Shah Paran Srijan, on a mission to become a proficient MERN stack developer.
 ### I am familiar with
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=tailwind,react,firebase,express,mongodb,nodejs,figma,vercel,vite,vscode,github,wordpress,linux" />
   </a>
 </p>
 
 ### My Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mspsrijan&theme=react)
+<p align="center">
+    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=mspsrijan&theme=react&hide_border=true"/></a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mspsrijan&theme=react&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+<a href="#">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mspsrijan&theme=react"></img>
+</a>
+</p>
