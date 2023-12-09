@@ -20,6 +20,6 @@ I'm Shah Paran Srijan, on a mission to become a proficient MERN stack developer.
 
 ### My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mspsrijan&theme=react&hide_border=true)](https://git.io/streak-stats)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mspsrijan&theme=react)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mspsrijan&theme=react&hide_border=true)](https://git.io/streak-stats)
