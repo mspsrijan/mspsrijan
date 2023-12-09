@@ -31,14 +31,14 @@ I'm Shah Paran Srijan, on a mission to become a proficient MERN stack developer.
 ### Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/spsrijan/" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/linkedin.png" />
+  <a href="https://www.linkedin.com/in/spsrijan/">
+    <img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/linkedin.png" width="50" height="50"/>
   </a>
   <a href="https://www.facebook.com/SPSrijan/" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/facebook.png" />
+    <img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/facebook.png" width="50" height="50"/>
   </a>
   <a href="https://twitter.com/SPSrijan" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/twitter.png" />
+    <img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/twitter.png" width="50" height="50"/>
   </a>
 </p>
 
