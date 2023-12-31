@@ -1,7 +1,5 @@
 <p align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/Shah%20Paran%20Srijan%20(Github%20Banner).png"></img>
-</a>
+<img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/Shah%20Paran%20Srijan%20-%20React%20Developer.png"></img>
 </p>
 
 ### 👋 Hello there!
