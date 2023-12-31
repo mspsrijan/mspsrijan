@@ -16,10 +16,8 @@ I'm Shah Paran Srijan, on a mission to become a proficient MERN stack developer.
 
 ### I am familiar with
 
-<p align="center">
-  <a href="#">
+<p>
     <img src="https://skillicons.dev/icons?i=tailwind,react,firebase,express,mongodb,nodejs,figma,vercel,vite,vscode,github,wordpress,linux" />
-  </a>
 </p>
 
 ### Let's Connect
