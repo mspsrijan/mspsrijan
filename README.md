@@ -54,13 +54,13 @@ I'm Shah Paran Srijan, on a mission to become an expert MERN stack developer.
 ### My Work and Collaborations
 
 <p>
-  <a href="https://pro.fiverr.com/freelancers/shahparansrijan">
+  <a href="https://pro.fiverr.com/freelancers/shahparansrijan" target="_blank">
     <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">
   </a>
-  <a href="https://www.upwork.com/freelancers/~0167647e2ab182e3d6">
+  <a href="https://www.upwork.com/freelancers/~0167647e2ab182e3d6" target="_blank">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
   </a>
-    <a href="https://www.behance.net/spsrijan">
+    <a href="https://www.behance.net/spsrijan" target="_blank">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
 </p>
@@ -68,19 +68,19 @@ I'm Shah Paran Srijan, on a mission to become an expert MERN stack developer.
 ### Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/spsrijan/">
+  <a href="https://www.linkedin.com/in/spsrijan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/SPSrijan/">
+  <a href="https://www.facebook.com/SPSrijan/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-  <a href="https://twitter.com/SPSrijan">
+  <a href="https://twitter.com/SPSrijan" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="mailto:mspsrijan@gmail.com">
+  <a href="mailto:mspsrijan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-    <a href="https://wa.me/+8801716959086">
+    <a href="https://wa.me/+8801716959086" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
