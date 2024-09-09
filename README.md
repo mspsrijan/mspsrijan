@@ -6,7 +6,7 @@
 
 I'm Shah Paran Srijan, an expert in Next.js, on a mission to continually expand my MERN stack development skills.
 
-💡 Proficient in building scalable and responsive websites using React, Next.js, Tailwind CSS, and shadcn/ui. I enjoy the challenge of bringing ideas to life through clean and efficient code.
+💡 Proficient in building scalable and responsive websites using React, Next.js, Tailwind CSS, shadcn/ui, MongoDB, and Mongoose. I enjoy the challenge of bringing ideas to life through clean and efficient code.
 
 💻 With deep expertise in Next.js, I'm also advancing my skills in Node.js, and Express.
 
