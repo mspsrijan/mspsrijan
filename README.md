@@ -1,5 +1,5 @@
 <p align="center">
- <a href="#"><img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/Shah%20Paran%20Srijan%20-%20React%20Developer.png" /></a>
+ <a href="#"><img src="https://raw.githubusercontent.com/mspsrijan/mspsrijan/main/Shah%20Paran%20Srijan%20-%20Frontend%20Developer%20Banner.png" /></a>
 </p>
 
 ### 👋 Hello there!
