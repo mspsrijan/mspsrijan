@@ -14,10 +14,11 @@ I'm Shah Paran Srijan, on a mission to become an expert MERN stack developer.
 
 🚀 Let's connect, collaborate, and code! Feel free to explore my repositories and don't hesitate to reach out for discussions, contributions, or just a friendly chat. Let's build something awesome! Happy coding!
 
-### Tech I am familiar with
+### Tech Stack and Tools
 
 <p><b>Frontend</b><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
