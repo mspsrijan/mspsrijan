@@ -51,6 +51,20 @@ I'm Shah Paran Srijan, on a mission to become an expert MERN stack developer.
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
+### My Work and Collaborations
+
+<p>
+  <a href="https://pro.fiverr.com/freelancers/shahparansrijan">
+    <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0167647e2ab182e3d6">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  </a>
+    <a href="https://www.behance.net/spsrijan">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+</p>
+
 ### Let's Connect
 
 <p>
